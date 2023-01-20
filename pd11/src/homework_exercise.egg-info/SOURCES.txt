@@ -1,0 +1,11 @@
+setup.py
+src/homework_exercise/__init__.py
+src/homework_exercise/_calculation.py
+src/homework_exercise/_data.py
+src/homework_exercise/data_file.json
+src/homework_exercise/data_file_2.toml
+src/homework_exercise.egg-info/PKG-INFO
+src/homework_exercise.egg-info/SOURCES.txt
+src/homework_exercise.egg-info/dependency_links.txt
+src/homework_exercise.egg-info/not-zip-safe
+src/homework_exercise.egg-info/top_level.txt
